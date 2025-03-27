@@ -37,7 +37,7 @@ Converter/
 ![pagina princial](<tela princiapal.png>)
 ![dolar](<tela dolar-2.png>)
 ![euro](<tela euro-1.png>)
-![libra](<tela libra-1.png>)
+![libra](<tela libra-2.png>)
 
 ## 📄 Licença
 
