@@ -2,6 +2,8 @@
 
 Uma aplicação simples para conversão de moedas estrangeiras (USD, EUR, BTC) para reais (BRL), com uma interface limpa e intuitiva.
 
+https://silveriale.github.io/Converter/
+
 ## 🛠 Tecnologias
 
 - HTML
