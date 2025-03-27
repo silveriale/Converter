@@ -35,9 +35,9 @@ Converter/
 ## 📷 Preview
 
 ![pagina princial](<tela princiapal.png>)
-![dolar](<tela dolar.png>)
-![euro](<tela euro.png>)
-![libra](<tela libra.png>)
+![dolar](<tela dolar-2.png>)
+![euro](<tela euro-1.png>)
+![libra](<tela libra-1.png>)
 
 ## 📄 Licença
 
